@@ -1,0 +1,76 @@
+
+.container {
+
+   text-style:Helvetica,sans-serif;
+   font-style:Italic;
+   color:#fff;
+   text-align:center;
+
+}
+
+.navbar {
+
+  background-color:#76EE00;
+  color:#fff;
+  height:40px;
+}
+
+.navbar ul {
+
+  list-style:none;
+  padding:0;
+}
+
+.navbar li {
+
+  display:inline;
+  
+}
+
+.navbar a {
+  
+  list-style:none;
+  text-decoration:none;
+  text-align: center;
+  color:#fff;
+  padding-right: 20px;
+  float:right;
+}
+
+.navbar a:Hover {
+
+  background-color: #66CD00;
+  color:#333;
+  padding-bottom:20px;
+
+  }
+
+  .image {
+
+    background-image:url("C:/Users/SANGEETH/Desktop/project1/noname.jpg");
+    background-position:center right;
+    width:1200px;
+    height:400px;
+  }
+
+  .different {
+    color:#333;
+    font-size:30px;
+    text-align:left;
+  }
+
+  .image2 {
+
+    background-image:url("C:/Users/SANGEETH/Desktop/project1/nature3.jpg");
+    background-position:center right;
+    width:1200px;
+    height:400px;
+  }
+
+  .image3 {
+
+    background-image:url("C:/Users/SANGEETH/Desktop/project1/nature4.jpg");
+    background-position:center right;
+    width:1200px;
+    height:400px;
+  }
